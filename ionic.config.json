@@ -1,0 +1,8 @@
+{
+  "name": "fae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "286e60df"
+}
